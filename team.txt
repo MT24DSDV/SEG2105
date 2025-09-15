@@ -1,3 +1,7 @@
 Marcel
 Abubaker 
+<<<<<<< HEAD
 Ken
+=======
+Kyle
+>>>>>>> 0ffe8b7b40d3ee4270bbdb49752922b4f243d244
